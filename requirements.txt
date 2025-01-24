@@ -1,0 +1,17 @@
+catboost
+ipykernel
+ipython
+ipywidgets
+joblib
+jupyter_client
+jupyter_core
+jupyterlab_widgets
+lightgbm
+matplotlib
+numpy
+pandas
+plotly
+scikit-learn
+scipy
+tqdm
+xgboost
