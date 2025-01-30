@@ -1,4 +1,5 @@
 catboost
+category_encoders
 ipykernel
 ipython
 ipywidgets
@@ -11,8 +12,10 @@ matplotlib
 numpy
 pandas
 plotly
+pyarrow
 scikit-learn
 scipy
 seaborn
+statsmodels
 tqdm
 xgboost
