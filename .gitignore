@@ -176,3 +176,4 @@ cython_debug/
 
 *.zip
 competition-1/data/raw/train.csv
+*/catboost_info
