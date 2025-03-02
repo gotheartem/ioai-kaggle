@@ -175,5 +175,10 @@ cython_debug/
 
 
 *.zip
-competition-1/data/raw/train.csv
 */catboost_info
+*/checkpoints
+
+competition-1/data/raw/train.csv
+competition-2/data/raw/train
+competition-2/data/raw/sample_submission.csv
+competition-2/data/submissions/sample_submission_baseline.csv

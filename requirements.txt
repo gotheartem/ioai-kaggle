@@ -13,9 +13,14 @@ numpy
 pandas
 plotly
 pyarrow
+scikit-image
 scikit-learn
 scipy
 seaborn
 statsmodels
+timm
+torch
+torchvision
+torchaudio
 tqdm
 xgboost
