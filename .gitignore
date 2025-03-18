@@ -177,8 +177,10 @@ cython_debug/
 *.zip
 */catboost_info
 */checkpoints
+*/tmp.*
 
 competition-1/data/raw/train.csv
 competition-2/data/raw/train
 competition-2/data/raw/sample_submission.csv
 competition-2/data/submissions
+data-fusion/data/external

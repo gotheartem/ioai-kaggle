@@ -1,5 +1,6 @@
 catboost
 category_encoders
+fireducks
 ipykernel
 ipython
 ipywidgets
